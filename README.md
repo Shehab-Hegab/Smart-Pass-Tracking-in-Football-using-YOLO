@@ -4,10 +4,10 @@
 [![YOLOv8](https://img.shields.io/badge/YOLO-v8-brightgreen?logo=ultralytics)](https://github.com/ultralytics/ultralytics)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-blue?logo=opencv)](https://opencv.org/)
 
----
+
 # Video
-https://github.com/user-attachments/assets/2ab4b6d6-e000-48d3-97a0-be08ca6274d9
----
+
+https://github.com/user-attachments/assets/968f9d57-66e7-4708-8ad0-d169dae06379
 
 ## Project Overview
 
